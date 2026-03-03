@@ -1,6 +1,10 @@
 # xbar-anthropic-credits-balance
 
+see also: [xbar-openai-credits-balance](https://github.com/AdrianNarloch/xbar-openai-credits-balance)
+
 macOS [xbar](https://xbarapp.com/) plugin that shows your Anthropic prepaid API credits balance in the macOS menu bar.
+
+<img width="128" height="23" alt="Screenshot 2026-03-03 at 04 30 46" src="https://github.com/user-attachments/assets/a2cf256f-8729-41a4-ad02-b8b019611367" />
 
 ## Prerequisites
 
